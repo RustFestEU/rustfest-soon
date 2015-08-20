@@ -26,7 +26,7 @@ organizerAlternateName: "OpenTechSchool Berlin"
 organizerDescription: "Open"
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.hackership.org/"
 
 # Head
 metaKeywords: "event, wwwtfberlin, berlin, programming, opensource, developers"
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/#location", text: "Location"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#tickets", text: "Register Now"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#tickets", text: "Register Now"}
 
 # Hero Block
 heroImage: "mountain.jpg"
@@ -123,7 +123,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a partner"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -133,49 +133,48 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "All Tickets grant access to the event, including food and drinks."
 ticketsOffers:
  -
   name: "Presenter"
-  price: "10"
-  priceCurrency: "tickets"
+  price: "free"
+  priceCurrency: ""
   ticketsNumber: ""
-  ribbon: "join now"
+  ribbon: "limited"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "Apply now"
+  ticketContentList: ["Entrance to the event", "present your project on stage", "find new contributors"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Developer"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Regular"
+  price: "15"
+  priceCurrency: "€"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: "top"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
+  buyButtonText: "Join Waitinglist"
+  ticketContentList: ["suggested donation price", "Entrance to event", "Includes food and drinks"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: false
  -
-  name: "Community Member"
-  price: "200"
-  priceCurrency: "UAH"
+  name: "Community"
+  price: "free"
+  priceCurrency: ""
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
+  buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
+  buyButtonText: "Apply Now"
+  additionalInfo: "Ticket exclusively for people from groups under represented in tech."
+  ticketContentList: ["Entrance to event", "Includes food and drinks", "Get access to awesome open source hackers"]
+  validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  disabled: false
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -183,16 +182,16 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.hackership.org", text: "Hackership"}
+   - {link: "https://wwwtf.berlin", text: "wwwtf Berlin"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:ben@hackership.org", text: "ben@hackership.org"}
  -
-  title: "FAQ"
+  title: "Code of Conduct"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "http://berlincodeofconduct.org/", text: "We operate under the <br/> Berlin Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"

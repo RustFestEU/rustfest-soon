@@ -1,6 +1,6 @@
 <!-- Begin Tickets Section -->
 <section id="tickets" class="tickets">
-	<div class="content-wrapper">
+	<div class="content-wrapper row">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>{{ site.ticketsTitle }}</h3>
             {% for ticketsOffer in site.ticketsOffers %}
@@ -31,5 +31,8 @@
             {% endfor %}
 		</div>
 	</div>
+	<div class="row">
+        <p class="tickets-info">{{ site.ticketsInfo }}</p>
+    </div>
 </section>
 <!-- End Tickets Section -->
