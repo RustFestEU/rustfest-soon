@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/#presenting", text: "Presenting"}
  - {permalink: "/#schedule", text: "Schedule"}
  # - {permalink: "/team/", text: "Team"}
- - {permalink: "/#location-map", text: "Location"}
+ - {permalink: "/#location", text: "Location"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -131,22 +131,22 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  name: "Presenter"
+  price: "10"
+  priceCurrency: "tickets"
+  ticketsNumber: ""
+  ribbon: "join now"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
+  name: "Developer"
   price: "450"
   priceCurrency: "UAH"
   ticketsNumber: "100"
@@ -157,9 +157,9 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  disabled: true
+  disabled: false
  -
-  name: "Student"
+  name: "Community Member"
   price: "200"
   priceCurrency: "UAH"
   ticketsNumber: "50"
