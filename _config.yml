@@ -44,10 +44,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Presenters"}
+ - {permalink: "/#presenting", text: "Presenting"}
+ - {permalink: "/#schedule", text: "Schedule"}
  # - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/#location-map", text: "Location"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 100
-rockstarSpeakersTitle: "Presenters"
+rockstarSpeakersTitle: "Presenting"
 # rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
