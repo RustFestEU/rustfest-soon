@@ -3,6 +3,12 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
+            {% if site.aboutText %}
+            <div class="row about-text">
+                {{site.aboutText}}
+            </div>
+            {% endif %}
+
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
