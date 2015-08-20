@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "OpenSourceBash"
+title: "OpenSourceBash – at wwwtf berlin, 2015"
 email: "ben@opentechschool.org"
-description: "OpenSourceBash "
+description: "OpenSourceBash – where projects find more members"
 baseurl: ""
 url: "https://www.opensourcebash.org/"
 permalink: "/blog/:title"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "mountain.jpg"
-heroTitle: "Learn how to hack on <typeout>"
+heroTitle: "Learn how to <typeout>"
 eventDate: "at OpenSourceBash Berlin 2015"
-typeoutTextValues: '"", "rust", "hoodie", "couchdb", "unhosted", "ownCloud"'
+typeoutTextValues: '"", "hack on rust", "join team hoodie", "contribute to couchdb", "hack on unhosted", "patch ownCloud"'
 typeoutFallback: "couchdb"
 heroButtons:
  - {permalink: "/#tickets", text: "join now"}
@@ -66,11 +66,11 @@ heroButtons:
 
 # About Block
 aboutTitle: "About OpenSourceBash"
-aboutText: "<p>Text which explains what we are doing</p>"
+# aboutText: "<p>Each presentation consist of 5 minutes, where three minutes focus on the project and the second two cover how to onboard easiest and fastest.</p><p>There will be three batches of five talks each and breaks in between at which participants can chat with the teams and learn more about the projects and how to get involved.</p>"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Presentations", image: "conference.jpg", text: "OpenSource teams present their project, what it is and why it matters to an audience of people interested in joining and contributing." }
+ - {title: "Learn more", image: "hackathon.jpg", text: "Breaks and having great food togehter gives plenty of opportunity for participants to learn about the projects they are intersted in." }
+ - {title: "Get Involved", image: "workshop.jpg", text: "All presentations are focussed on lowering the threshold of getting involved. Chat to project you want to get invovled in. Bring your Laptop and set up the project together with the maintainers." }
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
