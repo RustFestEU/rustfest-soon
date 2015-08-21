@@ -56,13 +56,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "berlin_sunset.jpg"
-heroTitle: "Learn how to <typeout>"
-eventDate: "at OpenSourceBash Berlin 2015"
-typeoutTextValues: '"", "hack on rust", "join team hoodie", "contribute to couchdb", "hack on unhosted", "patch ownCloud"'
-typeoutFallback: "couchdb"
+heroTitle: "want to <typeout>"
+eventDate: "OpenSourceBash Berlin 2015"
+typeoutTextValues: '"", "hack on rust?", "join team hoodie?", "contribute to couchdb?", "hack on unhosted?", "bugfix ownCloud?"'
+typeoutFallback: "contribute to python"
 heroButtons:
- - {permalink: "/#tickets", text: "join now"}
- - {link: "/#present", text: "Present your project"}
+ - {permalink: "/#tickets", text: "register now"}
 
 # About Block
 aboutTitle: "About OpenSourceBash"
@@ -75,9 +74,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "15", specialCharacter: "+", info: "open source projects", detail: "presenting"}
- - {count: "5", specialCharacter: "+", info: "minutes", detail: "per presentation"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "interested in contributing, joining from everywhere in the world"}
+ - {count: "15", specialCharacter: "", info: "open source teams", detail: "presenting their projects and show how you can join <strong>today</strong>"}
+ - {count: "5", specialCharacter: "+", info: "minutes", detail: "per presentation – 3min about the projects, 2min on how to contribute. "}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
