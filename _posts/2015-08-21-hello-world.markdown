@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2014-08-21 22:49:00
+date:   2014-08-21 12:49:00
 isStaticPost: false
 ---
 
@@ -14,7 +14,7 @@ After countless hours of thought and planning, work, sweat and tears, the websit
 
 [![Bashy The GNUnicorn](/img/sprites/logo.png)](/img/sprites/logo-big.svg)
 
-As you might know, Unicorns are the love children of ponies and narwhales – with the very visible central, spiral horn on the forehead as a well known charactaristic. Unlike popular believe, when such a unicorn has an affair with a gnu – the resulting GNUnicorn doesn't have one or three horns but the usual two gnu horns. A GNUnicorns horns, however, are spiral and colorful like the rainbow.
+As you might know, Unicorns are the love children of ponies and [narwhals](https://en.wikipedia.org/wiki/Narwhal) – with the very visible central, spiral horn on the forehead as a well known charactaristic. Unlike popular believe, when such a unicorn has an affair with a gnu – the resulting GNUnicorn doesn't have one or three horns but the usual two gnu horns. A GNUnicorns horns, however, are spiral and colorful like the rainbow.
 
 _Bashy_, despite the name, isn't a very aggressive animal, but rather prefers open _discourse, collaboration and communication_. Traits, very common among GNUnicorns in general.
 
