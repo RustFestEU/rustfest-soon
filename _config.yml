@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "OTS Berlin"
-organizerAlternateName: "OpenTechSchool Berlin"
-organizerDescription: "Open"
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Hackership"
+organizerAlternateName: "Hackership Berlin"
+organizerDescription: "self-directed learning retreat for developers in Berlin."
+organizerEmail: "team@opensourcebash.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.hackership.org/"
 
@@ -37,17 +37,17 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#presenting", text: "Presenting"}
  - {permalink: "/#schedule", text: "Schedule"}
  # - {permalink: "/team/", text: "Team"}
  - {permalink: "/#location", text: "Location"}
+ - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "#tickets", text: "Register Now"}
@@ -132,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketsInfo: "All Tickets grant access to the event, including food and drinks."
+ticketsInfo: "<p>All Tickets grant access to the event, including food and drinks. Tickets are awarded 'first-come-first-serve'.<br> Community tickets are awarded to women and people of marginalized groups in tech only: please use the 'waitlist feature'.</p> "
 ticketsOffers:
  -
   name: "Presenter"
@@ -140,48 +140,41 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: "limited"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "/apply/"
   buyButtonText: "Apply now"
-  ticketContentList: ["Entrance to the event", "present your project on stage", "find new contributors"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["entrance to the event", "present your project", "recruite new contributors"]
  -
   name: "Regular"
-  price: "15"
+  price: "10"
   priceCurrency: "€"
   ticketsNumber: "100"
   ribbon: "top"
   featured: true
   buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
-  buyButtonText: "Join Waitinglist"
-  ticketContentList: ["suggested donation price", "Entrance to event", "Includes food and drinks"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: false
+  buyButtonText: "Register now"
+  ticketContentList: ["suggested donation price", "entrance to event", "includes food and drinks"]
  -
   name: "Community"
   price: "free"
   priceCurrency: ""
   ticketsNumber: "50"
   buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
-  buyButtonText: "Apply Now"
+  buyButtonText: "Join Waitlist"
   additionalInfo: "Ticket exclusively for people from groups under represented in tech."
-  ticketContentList: ["Entrance to event", "Includes food and drinks", "Get access to awesome open source hackers"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: false
+  ticketContentList: ["entrance to event", "includes food and drinks"]
 
 # Footer
 socialLinks:
  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=opensourcebash", icon: "twitter"}
+ # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "http://www.hackership.org", text: "Hackership"}
+   - {link: "http://www.opentechschool.org/berlin", text: "OpenTechSchool Berlin"}
    - {link: "https://wwwtf.berlin", text: "wwwtf Berlin"}
  -
   title: "Contacts"
@@ -194,7 +187,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: ""
 
 # Speakers List Block
