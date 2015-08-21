@@ -85,7 +85,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 100
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Presenting"
 # rockstarSpeakersButtonText: "See all speakers"
 
@@ -178,9 +178,10 @@ footerBlocks:
    - {link: "http://www.opentechschool.org/berlin", text: "OpenTechSchool Berlin"}
    - {link: "https://wwwtf.berlin", text: "wwwtf Berlin"}
  -
-  title: "Contacts"
+  title: "Team Contacts"
   links:
-   - {link: "mailto:ben@hackership.org", text: "ben@hackership.org"}
+   - {link: "mailto:anouk@opensourcebash.org", text: "Anouk Ruhaak"}
+   - {link: "mailto:ben@opensourcebash.org", text: "Benjamin Kampmann"}
  -
   title: "Code of Conduct"
   links:

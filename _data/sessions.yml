@@ -3,7 +3,7 @@
   title: "Welcome"
   description: "A short welcome by the Organisers"
   subtype: presentation
-  speakers: [1]
+  speakers: [1, 2]
   language: en
 -
   id: 002
