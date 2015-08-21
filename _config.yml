@@ -52,6 +52,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "#tickets", text: "Register Now"}
 rightNavigationButtons:
+ - {link: "/apply", cls: "btn-secondary", text: "Present Project"}
  - {link: "#tickets", text: "Register Now"}
 
 # Hero Block
