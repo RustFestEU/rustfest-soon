@@ -78,6 +78,18 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/kriesse/"}
     - {name: "github", link: "https://github.com/kriesse/"}
+- 
+  id: 7
+  name: "Alexander"
+  surname: "Surma"
+  company: "Google, Material Design Light"
+  title: "Designer"
+  bio: ""
+  thumbnailUrl: surma.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/surma/"}
+    - {name: "github", link: "https://github.com/surma/"}
 
 #   id: 4
 #   name: "Dmytro"
