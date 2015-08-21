@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "#tickets", text: "Register Now"}
 
 # Hero Block
-heroImage: "mountain.jpg"
+heroImage: "berlin_sunset.jpg"
 heroTitle: "Learn how to <typeout>"
 eventDate: "at OpenSourceBash Berlin 2015"
 typeoutTextValues: '"", "hack on rust", "join team hoodie", "contribute to couchdb", "hack on unhosted", "patch ownCloud"'
