@@ -7,7 +7,7 @@
     user-select: none;
     text-transform: uppercase;
     border: 0;
-    background: $primary-color !important;
+    background: $primary-color;
     &:hover, &:focus, &:active, &.active {
         outline: none;
         color: #fff;
