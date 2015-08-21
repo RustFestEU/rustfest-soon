@@ -76,8 +76,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "interested in contributing, joining from everywhere in the world"}
- - {count: "15", specialCharacter: "", info: "open source teams", detail: "presenting their projects and show how you can join <strong>today</strong>"}
- - {count: "5", specialCharacter: "+", info: "minutes", detail: "per presentation – 3min about the projects, 2min on how to contribute. "}
+ - {count: "15", specialCharacter: "", info: "open source teams✨", detail: "presenting their projects and show how you can join <strong>today</strong>"}
+ - {count: "5", specialCharacter: "", info: "minutes each!", detail: "per presentation – 3min about the projects, 2min on how to contribute. "}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
