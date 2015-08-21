@@ -73,12 +73,12 @@ aboutBlock:
  - {title: "Get Involved", image: "workshop.jpg", text: "All presentations are focussed on lowering the threshold of getting involved. Chat to project you want to get invovled in. Bring your Laptop and set up the project together with the maintainers." }
 
 # Statistic Block
-# statisticBlockImage: "statistic.jpg"
-# statisticBlock:
-#  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
-#  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
-#  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
-#  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "15", specialCharacter: "+", info: "open source projects", detail: "presenting"}
+ - {count: "5", specialCharacter: "+", info: "minutes", detail: "per presentation"}
+ # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -128,7 +128,7 @@ partnersC4sponsorsButton: "Become a partner"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://hackership.us7.list-manage1.com/subscribe/post?u=d893774e9260bf62c4533f5d1&amp;id=d007531236"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block

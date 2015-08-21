@@ -22,7 +22,7 @@
    sodipodi:docname="logos.svg"><metadata
      id="metadata235"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs233"><radialGradient
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.498,0,0,0.498,172.2891,79.7388)"
@@ -181,7 +181,7 @@
      id="namedview231"
      showgrid="false"
      inkscape:zoom="1.7752894"
-     inkscape:cx="89.505491"
+     inkscape:cx="-10.478207"
      inkscape:cy="62.494069"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -244,7 +244,9 @@
          id="path2412" /></g></g><g
      transform="matrix(0.1861841,0,0,0.1861841,-43.563185,-0.82713744)"
      id="g4532"
-     style="stroke-width:10.74205585;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4e4e4e;stroke-opacity:1"><g
+     style="stroke-width:10.74205585;stroke-miterlimit:4;stroke-dasharray:none;stroke:#4e4e4e;stroke-opacity:1"
+     inkscape:export-xdpi="204.32001"
+     inkscape:export-ydpi="204.32001"><g
        style="stroke:#4e4e4e;stroke-width:10.74205585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g4534"><path
          id="path4536"
