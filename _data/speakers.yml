@@ -22,15 +22,16 @@
     - {name: "twitter", link: "https://twitter.com/anoukruhaak"}
 - 
   id: 3
-  name: "Mathias"
-  surname: "Bynens"
-  company: "Lodash, JS framework"
+  name: "Florian"
+  surname: "Glicher"
+  company: "The Rust Programming Language"
   title: "Software Developer"
   bio: ""
-  thumbnailUrl: MathiasBynens.png
+  thumbnailUrl: flo.jpg
   rockstar: true
   social: 
-    - {name: "github", link: "https://github.com/mathiasbynens"}
+    - {name: "github", link: "https://github.com/Skade"}
+    - {name: "twitter", link: "https://twitter.com/Argorak"}
 - 
   id: 4
   name: "Patricia"
