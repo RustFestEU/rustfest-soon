@@ -68,16 +68,16 @@
     - {name: "github", link: "https://github.com/janl"}
 - 
   id: 6
-  name: "Ola"
-  surname: "Gasidlo"
+  name: "Alex"
+  surname: "Feyerke"
   company: "Hoodie"
   title: "Software Developer"
   bio: ""
-  thumbnailUrl: ola.jpg
-  rockstar: false
+  thumbnailUrl: espylaub.jpg
+  rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/misprintedtype"}
-    - {name: "github", link: "https://github.com/zoepage"}
+    - {name: "twitter", link: "https://twitter.com/espylaub"}
+    - {name: "github", link: "https://github.com/espy"}
 - 
   id: 7
   name: "Kristina"

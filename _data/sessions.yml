@@ -28,6 +28,7 @@
   title: "First five"
   description: "the first five projects will be presenting their work and how you could join them – 5min each."
   subtype: presentation
+  speakers: [3, 6]
   language: en
 -
   id: 102
