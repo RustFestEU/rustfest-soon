@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "berlin_sunset.jpg"
 heroTitle: "want to <typeout>"
-eventDate: "OpenSourceBash Berlin 2015"
+eventDate: "OpenSourceBash Berlin, Sept 28th 2015"
 typeoutTextValues: '"", "hack on rust?", "join team hoodie?", "contribute to couchdb?", "hack on unhosted?", "bugfix ownCloud?"'
 typeoutFallback: "contribute to python"
 heroButtons:
@@ -98,9 +98,9 @@ eventAddressLocality: "Berlin"
 eventAddressLocalityRegion: ""
 eventPostalCode: "10963"
 eventAddressCountry: "Germany"
-eventStartTime: ""
-eventDoorTime: ""
-eventEndTime: ""
+eventStartTime: "2015-09-28T19:30"
+eventDoorTime: "19:00"
+eventEndTime: "2015-09-28T23:00"
 eventPlaceCoordinates: "52.5254101, 13.4167314"
 mapCenterCoordinates: "52.5254101, 13.4167314"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -154,6 +154,8 @@ ticketsOffers:
   buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
   buyButtonText: "Register now"
   ticketContentList: ["suggested donation price", "entrance to event", "includes food and drinks"]
+  disabled: true
+  validFrom: "2015-09-01T00:00"
  -
   name: "Community"
   price: "free"
@@ -163,6 +165,8 @@ ticketsOffers:
   buyButtonText: "Join Waitlist"
   additionalInfo: "Ticket exclusively for people from groups under represented in tech."
   ticketContentList: ["entrance to event", "includes food and drinks"]
+  disabled: true
+  validFrom: "2015-09-01T00:00"
 
 # Footer
 socialLinks:

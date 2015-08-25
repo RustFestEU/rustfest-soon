@@ -1,4 +1,15 @@
 - 
+  id: 0
+  name: "your name "
+  surname: "here"
+  company: "cool open source project"
+  title: "Directing Unicorn"
+  bio: ""
+  thumbnailUrl: missing.png
+  rockstar: true
+  # social: 
+    # - {name: "twitter", link: "https://twitter.com/sirdonqui"}
+- 
   id: 1
   name: "Benjamin"
   surname: "Kampmann"
@@ -40,7 +51,7 @@
   title: "Software Developer"
   bio: ""
   thumbnailUrl: patriciagarcia.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "github", link: "https://github.com/patriciagarcia"}
 - 
@@ -51,7 +62,7 @@
   title: "Software Developer"
   bio: ""
   thumbnailUrl: janl.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/janl"}
     - {name: "github", link: "https://github.com/janl"}
@@ -63,7 +74,7 @@
   title: "Software Developer"
   bio: ""
   thumbnailUrl: ola.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/misprintedtype"}
     - {name: "github", link: "https://github.com/zoepage"}
@@ -75,7 +86,7 @@
   title: "Designer"
   bio: ""
   thumbnailUrl: kriesse.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/kriesse/"}
     - {name: "github", link: "https://github.com/kriesse/"}
@@ -87,7 +98,7 @@
   title: "Designer"
   bio: ""
   thumbnailUrl: surma.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/surma/"}
     - {name: "github", link: "https://github.com/surma/"}
@@ -99,7 +110,7 @@
 #   title: "Android Developer"
 #   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
 #   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
+#   rockstar: false
 #   social: 
 #     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
