@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Call for Projects"
-date:   2015-08-24 19:00:00
 isStaticPost: false
 image: ../../assets/lego_bricks.jpg
 ---

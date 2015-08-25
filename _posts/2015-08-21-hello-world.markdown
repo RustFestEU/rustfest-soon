@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2014-08-21 12:49:00
 isStaticPost: false
 ---
 
