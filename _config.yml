@@ -68,9 +68,9 @@ heroButtons:
 aboutTitle: "About OpenSourceBash"
 # aboutText: "<p>Each presentation consist of 5 minutes, where three minutes focus on the project and the second two cover how to onboard easiest and fastest.</p><p>There will be three batches of five talks each and breaks in between at which participants can chat with the teams and learn more about the projects and how to get involved.</p>"
 aboutBlock:
- - {title: "Presentations", image: "conference.jpg", text: "OpenSource teams present their project, what it is and why it matters to an audience of people interested in joining and contributing." }
- - {title: "Learn more", image: "hackathon.jpg", text: "Breaks and having great food togehter gives plenty of opportunity for participants to learn about the projects they are intersted in." }
- - {title: "Get Involved", image: "workshop.jpg", text: "All presentations are focussed on lowering the threshold of getting involved. Chat to project you want to get invovled in. Bring your Laptop and set up the project together with the maintainers." }
+ - {title: "Presentations", image: "anouk_presents.png", text: "OpenSource teams present their project, what it is and why it matters to an audience of people interested in joining and contributing." }
+ - {title: "Connect", image: "pandas.jpg", text: "Breaks and having great food together gives plenty of opportunity for participants to learn about the projects they are intersted in." }
+ - {title: "Start Contributing", image: "kids_contributing.jpg", text: "All presentations are focussed on lowering the threshold of getting involved. Chat to project you want to get invovled in. Bring your Laptop and set up the project together with the maintainers." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
