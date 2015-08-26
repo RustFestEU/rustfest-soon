@@ -2,6 +2,7 @@
   group: "in collaboration with"
   elements: 
     - {name: "OpenTechSchool Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
+    - {name: "Women Who Code Berlin", description: "Women Who Code Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "https://twitter.com/WWCodeBerlin", imageUrl: "www.jpg"}
 # - 
 #   group: "With support of"
 #   elements: 
