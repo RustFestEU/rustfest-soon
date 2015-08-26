@@ -14,7 +14,7 @@ The aim of the event is to connect potential contributor with current team membe
  - The project must be under available public **under an [OSI approved licence](http://opensource.org/licenses/)** (dual licencing is accepted)
  - The project's **main (business) logic must be available under such a licence**: projects which rely on a non-opensource-licenced third-party to do the heavy lifting won't be accepted (e.g. default dropbox client)
  - The project **must have a team** of people working on it – solitary pet project don't count
- - The **person presenting must be part of that team** (no pitching of other peoples projects, no dev evangelists)
+ - The **person presenting must be part of that team** (no pitching of other peoples projects or third party stuff you aren't actively involved in)
  - complete the application form below
 
 The following aren't required, but highly encouraged. And in case of a tie, the project, which scores highest on this list will have preferred seating:
