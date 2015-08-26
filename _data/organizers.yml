@@ -1,9 +1,10 @@
 - 
   group: "organised by"
   elements: 
-    - {name: "Hackership", description: "Hackership –A self-directed learning retreat for developers", link: "http://www.hackership.org/", imageUrl: "hs.png"}
-    - {name: "OpenTechSchool Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
-    - {name: "Women Who Code Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
+    - {name: "Hackership", description: "Hackership – A self-directed learning retreat for developers", link: "http://www.hackership.org/", imageUrl: "hs.png"}
+    - {name: "Anouk Ruhaak", description: "Anouk Ruhaak – Freelance Software Developer", link: "http://anoukruhaak.com/", imageUrl: "../people/AnoukRuhaak.jpg"}
+    - {name: "Benjamin Kampmann", description: "Benjamin Kampmann – Freelance Software Architect", link: "http://twitter.com/SirDonQui", imageUrl: "../people/BenjaminKampmann.png"}
+    # - {name: "Women Who Code Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
     # - {name: "Up.Front", description: "up.front is a monthly meetup for webdesigners & frontend developers in Berlin. ", link: "http://up.front.ug/", imageUrl: "upfront.png"}
     # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
     # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}

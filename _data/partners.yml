@@ -1,8 +1,7 @@
-# - 
-#   group: "Sponsors"
-#   elements: 
-    # - {name: "Wikimedia Deutschland", description: "Wikimedia Detuschland e.V. sponsoring Venue and Food", link: "https://www.wikimedia.de/wiki/Kontakt", imageUrl: "wikimedia.png"}
-    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+- 
+  group: "in collaboration with"
+  elements: 
+    - {name: "OpenTechSchool Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
 # - 
 #   group: "With support of"
 #   elements: 
