@@ -16,7 +16,7 @@ First up is [Rust](https://www.rust-lang.org/):
 Among others it features `zero-cost abstractions`, `guaranteed memory safety`,
 `pattern matching`, and `threads without data races`. Most people will probably know it as the language with the interesting `memory borrowing concept`, [developed initially in the Mozilla Research Labs](https://mail.mozilla.org/pipermail/rust-dev/2012-January/001256.html) a few years back.
 
-We are very excited to have **[Florian](/#presenting)** from the local [Rust Chapter and Community Team Member](https://www.rust-lang.org/team.html) join us to present rust.
+We are very excited to have **[Florian](/#presenting)** from the local [Rust Chapter and Community](https://www.rust-lang.org/team.html) join us to present rust.
 
 ---
 
