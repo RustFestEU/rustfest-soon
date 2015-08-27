@@ -1,8 +1,8 @@
 - 
   group: "in collaboration with"
   elements: 
-    - {name: "OpenTechSchool Berlin", description: "OpenTechSchool Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "http://opentechschool.org/berlin", imageUrl: "ots_bln.png"}
-    - {name: "Women Who Code Berlin", description: "Women Who Code Berlin - hands-on, empowering, distributed peer tech education as it should be", link: "https://twitter.com/WWCodeBerlin", imageUrl: "www.jpg"}
+    - {name: "Hackership", description: "Hackership – A self-directed learning retreat for developers", link: "http://www.hackership.org/", imageUrl: "hs.png"}
+    - {name: "Women Who Code Berlin", description: "Women Who Code Berlin - Women Who Code is a global nonprofit organization dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology. The organization tripled in 2013 and has grown to be one of the largest communities of women engineers in the world.", link: "https://twitter.com/WWCodeBerlin", imageUrl: "www.jpg"}
 # - 
 #   group: "With support of"
 #   elements: 
