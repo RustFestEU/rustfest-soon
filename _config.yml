@@ -145,7 +145,7 @@ ticketsOffers:
   buyButtonText: "Apply now"
   ticketContentList: ["entrance to the event", "present your project", "recruite new contributors"]
  -
-  name: "Regular"
+  name: "Donation"
   price: "10"
   priceCurrency: "€"
   ticketsNumber: "100"
