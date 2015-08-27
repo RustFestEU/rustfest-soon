@@ -6,7 +6,7 @@
   title: "Directing Unicorn"
   bio: ""
   thumbnailUrl: missing.png
-  rockstar: true
+  rockstar: false
   # social: 
     # - {name: "twitter", link: "https://twitter.com/sirdonqui"}
 - 
@@ -56,16 +56,15 @@
     - {name: "github", link: "https://github.com/patriciagarcia"}
 - 
   id: 5
-  name: "Jan"
-  surname: "Lehnardt"
-  company: "CouchDB"
-  title: "Software Developer"
+  name: "Lisa Passing"
+  surname: "& Julia Krüger"
+  company: "Diaspora"
+  title: ""
   bio: ""
-  thumbnailUrl: janl.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/janl"}
-    - {name: "github", link: "https://github.com/janl"}
+  thumbnailUrl: Lisa-Julia.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/diaspora/diaspora"}
 - 
   id: 6
   name: "Alex"

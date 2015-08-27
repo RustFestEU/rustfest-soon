@@ -59,7 +59,7 @@ rightNavigationButtons:
 heroImage: "berlin_sunset.jpg"
 heroTitle: "want to <typeout>"
 eventDate: "OpenSourceBash Berlin, Sept 28th 2015"
-typeoutTextValues: '"", "hack on rust?", "join team hoodie?", "contribute to couchdb?", "hack on unhosted?", "bugfix ownCloud?"'
+typeoutTextValues: '"", "hack on rust?", "join team hoodie?", "federate with diaspora?"'
 typeoutFallback: "contribute to python"
 heroButtons:
  - {permalink: "/#tickets", text: "register now"}
