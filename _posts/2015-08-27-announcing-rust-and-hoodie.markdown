@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Announcing: Rust and Hoodie"
+title:  "Announcing first projects and new partners"
 isStaticPost: false
 image: ../../assets/rust_hoodie.jpg
 ---
 
-We are very happy to announce the first two teams to join and present at the OpenSourceBash in Berlin: **Rust and Hoodie**.
+We are very happy to announce the first three teams to join and present at the OpenSourceBash in Berlin – **Rust, Hoodie and Diaspora\*** – as well as announce that Women Who Code Berlin decided to join the party!
 
 ##### Rust
 
@@ -32,7 +32,26 @@ Hoodie offers a `no-backend`, `offline first` approach to web-development. Aside
 
 ---
 
-Interested in presenting? [Apply here](/apply/).
+##### Diaspora\*
+
+The third to present are the **[Lisa and Julia](/#presenting)** from [diaspora\*](https://www.diasporafoundation.org/):
+
+> diaspora* is a free personal web server that implements a distributed social networking service. Installations of the software form nodes (termed "pods") which make up the distributed Diaspora social network.
+
+You might remember it for the [amazing kickstarter campaign they did in 2010](https://www.kickstarter.com/projects/mbs348/diaspora-the-personally-controlled-do-it-all-distr) or simply for their bold statements about replacing facebook.
+
+### Women Who Code Berlin
+
+Lastly we are happy to announce to have the Berlin Chapter of "Women Who Code" on board and helping us spread the word about the event.
+
+> Women Who Code (WWCode) is a global 501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+
+
+Thank you all so much!
+
+---
+
+Interested in presenting? We still have a few open slots, [apply here](/apply/).
 
 
 Background image courtesy to [darkday
