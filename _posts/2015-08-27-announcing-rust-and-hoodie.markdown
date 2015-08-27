@@ -40,7 +40,7 @@ The third to present are the **[Lisa and Julia](/#presenting)** from [diaspora\*
 
 You might remember it for the [amazing kickstarter campaign back in 2010](https://www.kickstarter.com/projects/mbs348/diaspora-the-personally-controlled-do-it-all-distr) or simply for their bold statements about replacing facebook.
 
-#### Women Who Code Berlin
+##### Women Who Code Berlin
 
 Lastly we are happy to announce that we have the Berlin Chapter of "Women Who Code" on board to help us spread the word about the event.
 
