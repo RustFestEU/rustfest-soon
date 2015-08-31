@@ -3,10 +3,10 @@
   elements: 
     - {name: "Hackership", description: "Hackership – A self-directed learning retreat for developers", link: "http://www.hackership.org/", imageUrl: "hs.png"}
     - {name: "Women Who Code Berlin", description: "Women Who Code Berlin - Women Who Code is a global nonprofit organization dedicated to inspiring women to excel in technology careers by creating a global, connected community of women in technology. The organization tripled in 2013 and has grown to be one of the largest communities of women engineers in the world.", link: "https://twitter.com/WWCodeBerlin", imageUrl: "www.jpg"}
-# - 
-#   group: "With support of"
-#   elements: 
-#     - {name: "Up.Front", description: "up.front is a monthly meetup for webdesigners & frontend developers in Berlin. ", link: "http://up.front.ug/", imageUrl: "upfront.png"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Soundcloud", description: "Soundcloud", link: "http://www.soundcloud.com/", imageUrl: "soundcloud.png"}
 #     - {name: "Technologie Stiftung Berlin", description: "Wikimedia Detuschland e.V. sponsoring Venue and Food", link: "https://www.technologiestiftung-berlin.de/de/startseite/", imageUrl: "tsb-logo.gif"}
     # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}

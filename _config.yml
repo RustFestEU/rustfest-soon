@@ -75,7 +75,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "interested in contributing, joining from everywhere in the world"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "interested in contributing, joining from everywhere in the world"}
  - {count: "15", specialCharacter: "", info: "open source teams✨", detail: "presenting their projects and show how you can join <strong>today</strong>"}
  - {count: "5", specialCharacter: "", info: "minutes each!", detail: "per presentation – 3min about the projects, 2min on how to contribute. "}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -91,19 +91,19 @@ rockstarSpeakersTitle: "Presenting"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Wikimedia Deutschland e.V. "
-eventLocationLink: "https://www.wikimedia.de/wiki/Kontakt"
-eventStreetAddress: "Tempelhofer Ufer 23-24"
+eventLocationName: "SoundCloud Ltd"
+eventLocationLink: "https://soundcloud.com/imprint"
+eventStreetAddress: "Rheinsberger Str. 76/77"
 eventAddressLocality: "Berlin"
 eventAddressLocalityRegion: ""
-eventPostalCode: "10963"
+eventPostalCode: "10115"
 eventAddressCountry: "Germany"
 eventStartTime: "2015-09-28T19:30"
 eventDoorTime: "19:00"
 eventEndTime: "2015-09-28T23:00"
-eventPlaceCoordinates: "52.5254101, 13.4167314"
-mapCenterCoordinates: "52.5254101, 13.4167314"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "52.53684, 13.39493"
+mapCenterCoordinates: "52.53684, 13.39493"
+mapMobileCenterCoordinates: "52.53684, 13.39493"
 
 # Venue Block
 venueBlockTitle: "Venue"
