@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "berlin_sunset.jpg"
 heroTitle: "want to <typeout>"
-eventDate: "OpenSourceBash Berlin, Sept 28th 2015"
+eventDate: "OpenSourceBash Berlin, Sept 28th 2015 - 7pm"
 typeoutTextValues: '"", "hack on rust?", "join team hoodie?", "federate with diaspora?"'
 typeoutFallback: "contribute to python"
 heroButtons:
