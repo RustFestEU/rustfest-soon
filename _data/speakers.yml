@@ -45,15 +45,15 @@
     - {name: "twitter", link: "https://twitter.com/Argorak"}
 - 
   id: 4
-  name: "Patricia"
-  surname: "Garcia"
-  company: "eHealthAfrica"
+  name: "Felix Paul"
+  surname: "Kühne"
+  company: "VLC media player"
   title: "Software Developer"
   bio: ""
-  thumbnailUrl: patriciagarcia.jpg
-  rockstar: false
-  social: 
-    - {name: "github", link: "https://github.com/patriciagarcia"}
+  thumbnailUrl: felix_kuehne.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "github", link: "https://github.com/patriciagarcia"}
 - 
   id: 5
   name: "Lisa Passing"
@@ -79,18 +79,18 @@
     - {name: "github", link: "https://github.com/espy"}
 - 
   id: 7
-  name: "Kristina"
-  surname: "Schneider"
-  company: "Open Source Design"
-  title: "Designer"
+  name: "Lennart"
+  surname: "Hildebrandt"
+  company: "Wheelmap"
+  title: ""
   bio: ""
-  thumbnailUrl: kriesse.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/kriesse/"}
-    - {name: "github", link: "https://github.com/kriesse/"}
+  thumbnailUrl: Lennart.jpg
+  rockstar: true
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/kriesse/"}
+  #   - {name: "github", link: "https://github.com/kriesse/"}
 - 
-  id: 7
+  id: 8
   name: "Alexander"
   surname: "Surma"
   company: "Google, Material Design Light"
