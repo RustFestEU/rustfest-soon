@@ -155,7 +155,6 @@ ticketsOffers:
   buyButtonLink: "https://ti.to/opentechschool/opensourcebash-at-wwwtfberlin/"
   buyButtonText: "Register now"
   ticketContentList: ["We ask that you please donate 10€ to support the OpenTechSchool (non-profit) in running this and other code learning events in Berlin and all over the world."]
-  disabled: true
   validFrom: "2015-09-01T00:00"
  -
   name: "Reserved Seats"
@@ -166,7 +165,6 @@ ticketsOffers:
   buyButtonText: "Join Waitlist"
   additionalInfo: "Ticket exclusively for people from groups under represented in tech."
   ticketContentList: ["Tickets reserved for women and members of groups marginalized in tech."]
-  disabled: true
   validFrom: "2015-09-01T00:00"
 
 # Footer
