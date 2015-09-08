@@ -7,6 +7,7 @@
   group: "With support of"
   elements: 
     - {name: "Soundcloud", description: "Soundcloud", link: "http://www.soundcloud.com/", imageUrl: "soundcloud.png"}
+    - {name: "Up.Front", description: "up.front is a monthly meetup for webdesigners & frontend developers in Berlin. ", link: "http://up.front.ug/", imageUrl: "upfront.png"}
 #     - {name: "Technologie Stiftung Berlin", description: "Wikimedia Detuschland e.V. sponsoring Venue and Food", link: "https://www.technologiestiftung-berlin.de/de/startseite/", imageUrl: "tsb-logo.gif"}
     # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
