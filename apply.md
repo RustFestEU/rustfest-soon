@@ -11,11 +11,10 @@ __You are part of an awesome OpenSource project? You are looking for more people
 
 The aim of the event is to connect potential contributor with current team members of interesting open source projects. Here are some requirements about your projects and the person presenting it:
 
- - The project must be under available public **under an [OSI approved licence](http://opensource.org/licenses/)** (dual licencing is accepted)
+ - The project must be under available publicly **under an [OSI approved licence](http://opensource.org/licenses/)** (dual licencing is accepted, no "stealth" projects)
  - The project's **main (business) logic must be available under such a licence**: projects which rely on a non-opensource-licenced third-party to do the heavy lifting won't be accepted (e.g. default dropbox client)
  - The project **must have a team** of people working on it – solitary pet project don't count
  - The **person presenting must be part of that team** (no pitching of other peoples projects or third party stuff you aren't actively involved in)
- - complete the application form below
 
 The following aren't required, but highly encouraged. And in case of a tie, the project, which scores highest on this list will have preferred seating:
 
@@ -36,16 +35,11 @@ You can check whether your presentation is the way you want to right before the 
 
 ####  Application Process
 
-We have fifteen presentations slots available. Ten slots will be filled prior, the other five can only be claimed during the event. Please use the following form to let us know about your interest in presenting. We will assign the first five slots among all presentations filed _before September 5th_, the second five will be picked from all presentations send in _before September 12th_. Projects will be announced on the website and you'll receive an email in either case.
-
-_In both cases projects which have more of the prior mentioned encouraged criteria will be preferred_.
+We have fifteen presentations slots available. **The first ten slots have been filled prior, the other five will be given out at the event**:
 
 The third batch of five slots can only be claimed at the event itself. There will be a way to register your presentation at the beginning of the event. Prior mentioned criteria still apply. Slots are assigned first come, first serve.
 
-
-####  Application form
-
-<iframe src="https://docs.google.com/forms/d/10XqHLtG3xzAiTrFJbSf9_VLEOGRMV5GWNXV2i0J1zpc/viewform?embedded=true" width="760" height="1400" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+So, if you didn't make it yet and want to present your team, show up early and secure your seat!
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
