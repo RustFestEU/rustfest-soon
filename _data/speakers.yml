@@ -94,14 +94,46 @@
   name: "Silke"
   surname: "Meyer"
   company: "Friendica"
-  title: "Designer"
+  title: ""
   bio: ""
   thumbnailUrl: silke_meyer.jpg
   rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/surma/"}
-    - {name: "github", link: "https://github.com/surma/"}
-
+-
+  id: 9
+  name: "Martin"
+  surname: "Meyerhoff"
+  company: "Alchemy CMS"
+  title: ""
+  bio: ""
+  thumbnailUrl: martin_meyerhoff.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Boris"
+  surname: "Bügling"
+  company: "CocoaPods"
+  title: ""
+  bio: ""
+  thumbnailUrl: boris_buegling.jpg
+  rockstar: true
+-
+  id: 11
+  name: "Klaus"
+  surname: "Fleerkötter"
+  company: "Pixelated"
+  title: ""
+  bio: ""
+  thumbnailUrl: florian_fleerkoetter.jpg
+  rockstar: true
+-
+  id: 12
+  name: "Franz"
+  surname: "Liedke"
+  company: "Flarum"
+  title: ""
+  bio: ""
+  thumbnailUrl: franz_liedke.jpg
+  rockstar: true
 #   id: 4
 #   name: "Dmytro"
 #   surname: "Danylyk"

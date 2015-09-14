@@ -28,14 +28,14 @@
   title: "First five"
   description: "the first five projects will be presenting their work and how you could join them – 5min each."
   subtype: presentation
-  speakers: [3, 6, 5, 4, 7]
+  speakers: [4, 7, 6, 5, 3]
   language: en
 -
   id: 102
   title: "Second five"
   description: "We see another five projects been presented and how we could join them – 5min each."
   subtype: presentation
-  speakers: [8]
+  speakers: [8, 9, 10, 11, 12]
   language: en
 -
   id: 103
