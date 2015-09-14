@@ -35,6 +35,7 @@
   title: "Second five"
   description: "We see another five projects been presented and how we could join them – 5min each."
   subtype: presentation
+  speakers: [8]
   language: en
 -
   id: 103

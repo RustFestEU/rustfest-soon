@@ -1,4 +1,4 @@
-- 
+-
   id: 0
   name: "your name "
   surname: "here"
@@ -7,9 +7,9 @@
   bio: ""
   thumbnailUrl: missing.png
   rockstar: false
-  # social: 
+  # social:
     # - {name: "twitter", link: "https://twitter.com/sirdonqui"}
-- 
+-
   id: 1
   name: "Benjamin"
   surname: "Kampmann"
@@ -18,9 +18,9 @@
   bio: ""
   thumbnailUrl: BenjaminKampmann.png
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/sirdonqui"}
-- 
+-
   id: 2
   name: "Anouk"
   surname: "Ruhaak"
@@ -29,9 +29,9 @@
   bio: ""
   thumbnailUrl: AnoukRuhaak.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/anoukruhaak"}
-- 
+-
   id: 3
   name: "Florian"
   surname: "Gilcher"
@@ -40,10 +40,10 @@
   bio: ""
   thumbnailUrl: flo.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "github", link: "https://github.com/Skade"}
     - {name: "twitter", link: "https://twitter.com/Argorak"}
-- 
+-
   id: 4
   name: "Felix Paul"
   surname: "Kühne"
@@ -52,9 +52,9 @@
   bio: ""
   thumbnailUrl: felix_kuehne.jpg
   rockstar: true
-  # social: 
+  # social:
   #   - {name: "github", link: "https://github.com/patriciagarcia"}
-- 
+-
   id: 5
   name: "Lisa Passing"
   surname: "& Julia Krüger"
@@ -65,7 +65,7 @@
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/diaspora/diaspora"}
-- 
+-
   id: 6
   name: "Alex"
   surname: "Feyerke"
@@ -74,10 +74,10 @@
   bio: ""
   thumbnailUrl: espylaub.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/espylaub"}
     - {name: "github", link: "https://github.com/espy"}
-- 
+-
   id: 7
   name: "Lennart"
   surname: "Hildebrandt"
@@ -86,19 +86,19 @@
   bio: ""
   thumbnailUrl: Lennart.jpg
   rockstar: true
-  # social: 
+  # social:
   #   - {name: "twitter", link: "https://twitter.com/kriesse/"}
   #   - {name: "github", link: "https://github.com/kriesse/"}
-- 
+-
   id: 8
-  name: "Alexander"
-  surname: "Surma"
-  company: "Google, Material Design Light"
+  name: "Silke"
+  surname: "Meyer"
+  company: "Friendica"
   title: "Designer"
   bio: ""
-  thumbnailUrl: surma.jpg
-  rockstar: false
-  social: 
+  thumbnailUrl: silke_meyer.jpg
+  rockstar: true
+  social:
     - {name: "twitter", link: "https://twitter.com/surma/"}
     - {name: "github", link: "https://github.com/surma/"}
 
