@@ -133,7 +133,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Join now"
-ticketsInfo: "<p>All Tickets grant access to the event, including food and drinks. Tickets are awarded 'first-come-first-serve'.<br> Researved seating is available to women and people of marginalized groups in tech only: please use the 'waitlist feature'.</p> "
+ticketsInfo: "<p>All Tickets grant access to the event, including food and drinks. Tickets are awarded 'first-come-first-serve'.<br> Reserved seating is available to women and people of marginalized groups in tech only: please use the 'waitlist feature'.</p> "
 ticketsOffers:
  -
   name: "Presenter"
