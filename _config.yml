@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "RustFest"
-email: "noreply@nospam.com"
+email: "team@rustfest.eu"
 description: "Let's rust"
 baseurl: ""
 url: "http://www.rustfest.eu/"
@@ -22,9 +22,9 @@ siteVerification: ""
 
 # Organizer Info
 organizerName: "Rust Community Europe e.V."
-organizerAlternateName: "RustEurope Foundation"
+organizerAlternateName: "Rust Community Europe Foundation"
 organizerDescription: ""
-organizerEmail: "team"
+organizerEmail: "team@rustfest.eu"
 organizerLogo: ""
 organizerLink: "http://www.rustc.eu/"
 
@@ -60,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "berlin_sunset.jpg"
 heroTitle: "<typeout> Rust"
-eventDate: "RustFest, Berlin, Sept 17th(-18th) 2016"
+eventDate: "RustFest, Berlin, Sept 17th (-18th) 2016"
 typeoutTextValues: '"", "talking", "learning", "improving", "hacking", "presenting"'
 typeoutFallback: "talking about"
 heroButtons:
@@ -172,7 +172,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=opensourcebash", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=rustfest", icon: "twitter"}
  # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
