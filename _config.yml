@@ -43,7 +43,7 @@ c4sponsorsUrl: "mailto:sponsors@rustfest.eu?subject=becoming%20a%20partner&body=
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "About"}
+ # - {permalink: "/", text: "About"}
  # - {permalink: "/#presenting", text: "Presenting"}
  # - {permalink: "/#schedule", text: "Schedule"}
  - {permalink: "/team/", text: "Team"}
@@ -52,10 +52,10 @@ navigationLinks:
  - {permalink: "/#latest-news", text: "News"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "#tickets", text: "Register Now"}
+ - {link: "/#subscribe", text: "Register Now"}
 rightNavigationButtons:
  # - {link: "/apply", cls: "btn-secondary", text: "Present Project"}
- - {link: "#tickets", text: "Register Now"}
+ - {link: "/#subscribe", text: "Register Now"}
 
 # Hero Block
 heroImage: "berlin_sunset.jpg"
@@ -64,22 +64,22 @@ eventDate: "RustFest, Berlin, Sept 17th (-18th) 2016"
 typeoutTextValues: '"", "talking", "learning", "improving", "hacking", "presenting"'
 typeoutFallback: "talking about"
 heroButtons:
- - {permalink: "/#tickets", text: "register now"}
+ - {permalink: "/#subscribe", text: "register now"}
 
 # About Block
 aboutTitle: "About RustFestEU"
 # aboutText: "<p>Each presentation consist of 5 minutes, where three minutes focus on the project and the second two cover how to onboard easiest and fastest.</p><p>There will be three batches of five talks each and breaks in between at which participants can chat with the teams and learn more about the projects and how to get involved.</p>"
 aboutBlock:
- - {title: "Presentations", image: "anouk_presents.png", text: "OpenSource teams present their project, what it is and why it matters to an audience of people interested in joining and contributing." }
- - {title: "Connect", image: "pandas.jpg", text: "Breaks and having great food together gives plenty of opportunity for participants to learn about the projects they are intersted in." }
- - {title: "Start Contributing", image: "kids_contributing.jpg", text: "All presentations are focussed on lowering the threshold of getting involved. After, you can chat with the teams. Bring your Laptop and set up the project together with the maintainers." }
+ - {title: "Presentations", image: "anouk_presents.png", text: "Presentation and Talks about Rust, its ecosystem and the community." }
+ - {title: "Connect", image: "pandas.jpg", text: "Get in touch with other community members, get to know each other over delicious food and drinks." }
+ - {title: "Start Contributing", image: "kids_contributing.jpg", text: "All presentations are focussed on lowering the threshold of getting involved." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "interested in contributing, joining from everywhere in the world"}
- - {count: "15", specialCharacter: "", info: "open source teams✨", detail: "presenting their projects and show how you can join <strong>today</strong>"}
- - {count: "5", specialCharacter: "", info: "minutes each!", detail: "per presentation – 3min about the projects, 2min on how to contribute. "}
+ - {count: "10", specialCharacter: "", info: "talks", detail: "to get you deeper in rust and its community"}
+ - {count: "30", specialCharacter: "", info: "minutes", detail: "Keeping presentations brief and to the point "}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from all over the world"}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
