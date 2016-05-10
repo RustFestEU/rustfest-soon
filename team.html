@@ -2,11 +2,12 @@
 layout: default
 title: Team
 permalink: /team/
-<!-- image: blog.jpg -->
+image: ants.jpg
 ---
 
  {% include top-section.html %}
 
+{% if site.aboutUs %}
 <section>
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
@@ -14,5 +15,6 @@ permalink: /team/
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
 </section>
+{% endif %}
 
  {% include team.html %}
