@@ -12,11 +12,11 @@ After changing data, you need to restart jekyll even in watch mode.
 
  - [ ] add actual code-of-conduct
  - [ ] add team members
-   - [-] badboy
-   - [-] flaki
-   - [ ] ben
-   - [ ] florian
-   - [ ] Emma
+   - [x] badboy
+   - [x] flaki
+   - [x] ben
+   - [x] florian
+   - [x] Emma
  - [ ] link up to ti.to (rather than mailchimp)
  - [ ] replace header image
  - [ ] general color feeling?

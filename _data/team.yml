@@ -2,11 +2,11 @@
   id: 0
   name: "István"
   surname: "Szmozsánszky"
-  title: ""
+  title: "Flaki"
   thumbnailUrl: flaki.png
   team: true
-  ribbon:
-    - {abbr: "Flaki", title: "Da Flaki"}
+  # ribbon:
+  #   - {abbr: "Flaki", title: "Da Flaki"}
   social:
     # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "http://twitter.com/slsoftworks"}
@@ -16,14 +16,51 @@
   id: 1
   name: "Jan-Erik"
   surname: "Rediger"
-  title: ""
+  title: "BadBoy"
   thumbnailUrl: badboy.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+  # ribbon:
+  #   - {abbr: "Badboy", title: "Rustecean"}
   social:
     - {name: "twitter", link: "https://twitter.com/badboy_"}
     - {name: "github", link: "https://github.com/badboy"}
+-
+  id: 2
+  name: "Florian"
+  surname: "Gilcher"
+  title: "Skade"
+  thumbnailUrl: florian.png
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/badboy_"}
+    - {name: "github", link: "https://twitter.com/Argorak"}
+-
+  id: 3
+  name: "Emma"
+  surname: "Tracey"
+  title: "HoneyPot.IO"
+  thumbnailUrl: emma.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    # - {name: "twitter", link: "https://twitter.com/badboy_"}
+    # - {name: "github", link: "https://twitter.com/Argorak"}
+-
+  id: 4
+  name: "Benjamin"
+  surname: "Kampmann"
+  title: "Ben"
+  thumbnailUrl: ben.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/SirDonQui"}
+    - {name: "github", link: "https://github.com/ligthyear"}
+    - {name: "website", link: "http://www.create-build-execute.com/"}
 # -
 #   id: 2
 #   name: "Ostap"
